@@ -46,7 +46,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
   </a>
   <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Snowflake-Labs/sfquickstarts/main/images/snowflake-logo-blue-white.png" alt="snowflake" width="40" height="40"/>
+    <img src="https://assets.snowflake.com/image/upload/f_auto,q_auto/v1668603023/Snowflake/Snowflake_Logo_Icon.png" alt="snowflake" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -58,6 +58,7 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
 </p>
+
 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=joaquincarmona758&unique={true|1|on|yes})
