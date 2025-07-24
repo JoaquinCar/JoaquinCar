@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joaquin</h1>
 <h3 align="center">A passionate backend developer and Artificial Intelligence</h3>
 
-- **Aspiring AI & Data Engineer | Backend Developer | Building, Learning, and Innovating**
+- **Aspiring Cloud & Data Engineer | Backend Developer | Building, Learning, and Innovating**
 
 - 📫 How to reach me **joaquin.carmona@tecdesoftware.edu.mx**
 
