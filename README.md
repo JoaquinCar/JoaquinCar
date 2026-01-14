@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joaquin</h1>
 <h3 align="center">A passionate backend developer and Artificial Intelligence</h3>
 
-- **Aspiring Cloud & Data Engineer | Backend Developer | Building, Learning, and Innovating**
+- **Aspiring Cloud Engineer | DevOps Intern**
 
-- 📫 How to reach me **joaquin.carmona@tecdesoftware.edu.mx**
+- 📫 How to reach me **joaquincarmona758@gmail.com**
 
   <div align="left">
   <a href="https://www.linkedin.com/in/joaquin-carmona-033a16328/" target="_blank">
