@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Joaquin</h1>
-<h3 align="center">A passionate backend developer and Artificial Intelligence</h3>
+<h1 align="center">Hi Hi, I'm Joaquín(kino)</h1>
+<h2 align="center">Just building things and figuring it out.</h2>
+<h3 align="center">Interested in Healthcare AI and ML</h3>
 
-- **Aspiring Cloud Engineer | DevOps Intern**
+- **DevOps Intern @ AIVARA**
 
 - 📫 How to reach me **joaquincarmona758@gmail.com**
 
