@@ -1,10 +1,9 @@
-<h1 align="center">Hi Hi, I'm Joaquín(kino)</h1>
-<h2 align="center">Just building things and figuring it out.</h2>
-<h3 align="center">Interested in Healthcare AI and ML</h3>
+<h1 align="center">Hi, I'm Joaquín</h1>
+<h3 align="center">Just building things and figuring it out.</h3>
 
 - **DevOps Intern @ AIVARA**
-
-- 📫 How to reach me **joaquincarmona758@gmail.com**
+- Interested in Healthcare AI and ML
+- 📫 joaquincarmona758@gmail.com
 
   <div align="left">
   <a href="https://www.linkedin.com/in/joaquin-carmona-033a16328/" target="_blank">
